@@ -9,7 +9,7 @@ $productType = "Car";
 $sku = "fsdfsdf";
 $price = 3232;
 $name = "volvo";
-$attr = "attr";
+$attr = "Dimensions";
 
 $product = ProductFactory::createProduct($productType);
 
