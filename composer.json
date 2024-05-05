@@ -1,0 +1,10 @@
+{
+    "name": "ahmed-usama/test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
